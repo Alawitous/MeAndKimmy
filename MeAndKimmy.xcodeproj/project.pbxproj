@@ -13,6 +13,13 @@
 		A7796A201A68AB3B00270630 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7796A1F1A68AB3B00270630 /* Images.xcassets */; };
 		A7796A231A68AB3B00270630 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7796A211A68AB3B00270630 /* LaunchScreen.xib */; };
 		A7796A2F1A68AB3B00270630 /* MeAndKimmyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7796A2E1A68AB3B00270630 /* MeAndKimmyTests.swift */; };
+		A7796A3E1A68ABB700270630 /* BundleUp.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A381A68ABB700270630 /* BundleUp.JPG */; };
+		A7796A3F1A68ABB700270630 /* Cheesy.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A391A68ABB700270630 /* Cheesy.JPG */; };
+		A7796A401A68ABB700270630 /* Clubin.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A3A1A68ABB700270630 /* Clubin.JPG */; };
+		A7796A411A68ABB700270630 /* CoolChick.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A3B1A68ABB700270630 /* CoolChick.JPG */; };
+		A7796A421A68ABB700270630 /* Gorgeous.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A3C1A68ABB700270630 /* Gorgeous.JPG */; };
+		A7796A431A68ABB700270630 /* ImCute.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A7796A3D1A68ABB700270630 /* ImCute.JPG */; };
+		A7796A451A68AD7900270630 /* Kimmy.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7796A441A68AD7900270630 /* Kimmy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,13 @@
 		A7796A281A68AB3B00270630 /* MeAndKimmyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeAndKimmyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7796A2D1A68AB3B00270630 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7796A2E1A68AB3B00270630 /* MeAndKimmyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeAndKimmyTests.swift; sourceTree = "<group>"; };
+		A7796A381A68ABB700270630 /* BundleUp.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BundleUp.JPG; sourceTree = "<group>"; };
+		A7796A391A68ABB700270630 /* Cheesy.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cheesy.JPG; sourceTree = "<group>"; };
+		A7796A3A1A68ABB700270630 /* Clubin.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Clubin.JPG; sourceTree = "<group>"; };
+		A7796A3B1A68ABB700270630 /* CoolChick.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CoolChick.JPG; sourceTree = "<group>"; };
+		A7796A3C1A68ABB700270630 /* Gorgeous.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gorgeous.JPG; sourceTree = "<group>"; };
+		A7796A3D1A68ABB700270630 /* ImCute.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ImCute.JPG; sourceTree = "<group>"; };
+		A7796A441A68AD7900270630 /* Kimmy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kimmy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +93,7 @@
 			children = (
 				A7796A181A68AB3B00270630 /* AppDelegate.swift */,
 				A7796A1A1A68AB3B00270630 /* ViewController.swift */,
+				A7796A441A68AD7900270630 /* Kimmy.swift */,
 				A7796A1C1A68AB3B00270630 /* Main.storyboard */,
 				A7796A1F1A68AB3B00270630 /* Images.xcassets */,
 				A7796A211A68AB3B00270630 /* LaunchScreen.xib */,
@@ -90,6 +105,12 @@
 		A7796A161A68AB3B00270630 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A7796A381A68ABB700270630 /* BundleUp.JPG */,
+				A7796A391A68ABB700270630 /* Cheesy.JPG */,
+				A7796A3A1A68ABB700270630 /* Clubin.JPG */,
+				A7796A3B1A68ABB700270630 /* CoolChick.JPG */,
+				A7796A3C1A68ABB700270630 /* Gorgeous.JPG */,
+				A7796A3D1A68ABB700270630 /* ImCute.JPG */,
 				A7796A171A68AB3B00270630 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +213,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7796A431A68ABB700270630 /* ImCute.JPG in Resources */,
 				A7796A1E1A68AB3B00270630 /* Main.storyboard in Resources */,
 				A7796A231A68AB3B00270630 /* LaunchScreen.xib in Resources */,
+				A7796A3E1A68ABB700270630 /* BundleUp.JPG in Resources */,
+				A7796A3F1A68ABB700270630 /* Cheesy.JPG in Resources */,
+				A7796A401A68ABB700270630 /* Clubin.JPG in Resources */,
+				A7796A411A68ABB700270630 /* CoolChick.JPG in Resources */,
+				A7796A421A68ABB700270630 /* Gorgeous.JPG in Resources */,
 				A7796A201A68AB3B00270630 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,6 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7796A451A68AD7900270630 /* Kimmy.swift in Sources */,
 				A7796A1B1A68AB3B00270630 /* ViewController.swift in Sources */,
 				A7796A191A68AB3B00270630 /* AppDelegate.swift in Sources */,
 			);
@@ -407,6 +435,7 @@
 				A7796A341A68AB3B00270630 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7796A351A68AB3B00270630 /* Build configuration list for PBXNativeTarget "MeAndKimmyTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +444,7 @@
 				A7796A371A68AB3B00270630 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
